@@ -10,9 +10,9 @@ HuskyCoin is an ERC20 token deployed on the Ethereum mainnet, built for fun, sta
 - **Symbol**: HKY  
 - **Chain**: Ethereum Mainnet  
 - **Total Supply**: 100,000,000,000 HKY  
-- **Contract Address**: [0x...](https://etherscan.io/token/0x60CB4b6063BF77D2BcFB4F489A27393667b358af)  
+- **Contract Address**: [0x60CB4b6063BF77D2BcFB4F489A27393667b358af](https://etherscan.io/token/0x60CB4b6063BF77D2BcFB4F489A27393667b358af)  
 - **Deployed by**: [HuskyCoin]  
-- **Verified on**: [Etherscan](https://etherscan.io/token/0x60CB4b6063BF77D2BcFB4F489A27393667b358af)
+- **Verified on**: [Etherscan](https://etherscan.io/)
 
 ## ⚙️ Key Features
 
